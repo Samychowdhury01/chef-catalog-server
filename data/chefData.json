@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
+    "chefName": "Vikas Khanna",
+    "yearsOfExperience": 10,
+    "numRecipes": 50,
+    "likes": 1000
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vicky-ratnani-1.jpg",
+    "chefName": "Vicky Ratnani",
+    "yearsOfExperience": 5,
+    "numRecipes": 20,
+    "likes": 500
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/sanjeev-kapoor-1.jpg",
+    "chefName": "Sanjeev Kapoor",
+    "yearsOfExperience": 8,
+    "numRecipes": 30,
+    "likes": 800
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pankaj-bhadouria-1.jpg",
+    "chefName": "Pankaj Bhadouria",
+    "yearsOfExperience": 12,
+    "numRecipes": 70,
+    "likes": 1200
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pooja-dhingra-11589353546631.jpg",
+    "chefName": "Pooja Dhingra",
+    "yearsOfExperience": 3,
+    "numRecipes": 10,
+    "likes": 200
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/ajay-chopra-1.jpg",
+    "chefName": "Ajay Chopra",
+    "yearsOfExperience": 6,
+    "numRecipes": 40,
+    "likes": 600
+  }
+]
