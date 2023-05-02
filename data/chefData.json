@@ -3,7 +3,8 @@
     "id": 1,
     "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
     "chefName": "Vikas Khanna",
-    "yearsOfExperience": 10,
+    "bio": "Vikas Khanna is an Indian-American chef and restaurateur, known for his fusion cuisine that combines traditional Indian dishes with Western cooking techniques. He has authored several cookbooks, including \"Flavors First: An Indian Chef's Culinary Journey\" and has been a judge on the television show MasterChef India.",
+    "experience": 10,
     "numRecipes": 50,
     "likes": 1000
   },
@@ -11,7 +12,8 @@
     "id": 2,
     "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vicky-ratnani-1.jpg",
     "chefName": "Vicky Ratnani",
-    "yearsOfExperience": 5,
+    "bio": "Vicky Ratnani is an Indian chef known for his innovative take on traditional Indian regional cuisine. He is the executive chef of Indian Accent, a fine dining restaurant with locations in New Delhi, New York, and London. Mehrotra has received several awards for his culinary skills, including the prestigious \"Best Chef of India\" award from the Indian Culinary Forum.",
+    "experience": 5,
     "numRecipes": 20,
     "likes": 500
   },
@@ -19,7 +21,8 @@
     "id": 3,
     "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/sanjeev-kapoor-1.jpg",
     "chefName": "Sanjeev Kapoor",
-    "yearsOfExperience": 8,
+    "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known for his cooking show \"Khana Khazana\" which aired for over 17 years, making it the longest-running cooking show in Asia. Kapoor specializes in North Indian cuisine and has authored many cookbooks.",
+    "experience": 8,
     "numRecipes": 30,
     "likes": 800
   },
@@ -27,7 +30,8 @@
     "id": 4,
     "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pankaj-bhadouria-1.jpg",
     "chefName": "Pankaj Bhadouria",
-    "yearsOfExperience": 12,
+    "bio": "Pankaj Bhadouria is an Indian-born, Michelin-starred chef who is known for his modern take on Indian cuisine. He is the owner and head chef of Benares in London, which has been awarded two Michelin stars. Kochhar has also authored several cookbooks, including \"Benares: Michelin Starred Cooking\".",
+    "experience": 12,
     "numRecipes": 70,
     "likes": 1200
   },
@@ -35,7 +39,8 @@
     "id": 5,
     "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pooja-dhingra-11589353546631.jpg",
     "chefName": "Pooja Dhingra",
-    "yearsOfExperience": 3,
+    "bio": "Pooja Dhingra is an Indian chef and restaurateur known for her unique blend of Italian cuisine with Indian flavors. She is the owner and chef of Diva, a popular Italian restaurant in New Delhi, and has authored several cookbooks, including \"Italian Khana\". Dalmia has also been a judge on the television show MasterChef India.",
+    "experience": 3,
     "numRecipes": 10,
     "likes": 200
   },
@@ -43,8 +48,11 @@
     "id": 6,
     "chefPicture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/ajay-chopra-1.jpg",
     "chefName": "Ajay Chopra",
-    "yearsOfExperience": 6,
+    "bio": "Ajay Chopra was an Indian-American chef who specialized in Goan-Portuguese cuisine. He was the executive chef of Tabla in New York City, which was awarded three stars by The New York Times. Cardoz also won the third season of Top Chef Masters and authored the cookbook \"One Spice, Two Spice: American Food, Indian Flavors\" before passing away in 2020 due to COVID-19.",
+    "experience": 6,
     "numRecipes": 40,
     "likes": 600
   }
 ]
+
+
