@@ -2,6 +2,7 @@
   {
     "id": 1,
     "recipe_name": "Butter Chicken",
+    "image": "https://cravinghomecooked.com/wp-content/uploads/2020/06/butter-chicken-1.jpg",
     "ingredients": ["chicken", "butter", "cream", "tomato", "spices"],
     "cooking_method": "1. Marinate chicken in spices and yogurt for 30 minutes.\n2. Grill chicken until golden brown.\n3. Heat butter in a pan and add tomato puree and spices. Cook until oil separates.\n4. Add chicken and cream. Cook for 5-7 minutes until chicken is cooked through.\n5. Serve",
     "rating": 4.5,
@@ -10,6 +11,7 @@
   {
     "id": 2,
     "recipe_name": "Palak Paneer",
+    "image": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
     "ingredients": ["spinach", "paneer", "onion", "tomato", "spices"],
     "cooking_method": "1. Blanch spinach and blend into a puree.\n2. Heat oil in a pan and sauté onion and tomato until soft.\n3. Add spices and spinach puree. Cook for 5-7 minutes.\n4. Add paneer and cook for another 2-3 minutes.\n5. Serve",
     "rating": 4.2,
@@ -18,6 +20,7 @@
   {
     "id": 3,
     "recipe_name": "Chana Masala",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/chana-masala-recipe.jpg",
     "ingredients": ["chickpeas", "onion", "tomato", "spices", "coriander"],
     "cooking_method": "1. Boil chickpeas until tender.\n2. Heat oil in a pan and sauté onion until soft.\n3. Add spices and tomato. Cook for 2-3 minutes.\n4. Add chickpeas and cook for another 5-7 minutes.\n5. Garnish with coriander leaves and serve",
     "rating": 4.0,
@@ -26,6 +29,7 @@
   {
     "id": 4,
     "recipe_name": "Chicken Biryani",
+    "image": "https://yellowchilis.com/wp-content/uploads/2020/11/chicken-biryani-pressure-cooker-south-india-square-500x375.jpg",
     "ingredients": ["chicken", "basmati rice", "spices", "yogurt", "onion"],
     "cooking_method": "1. Marinate chicken in yogurt and spices for 1 hour.\n2. Cook rice until half done.\n3. Heat oil in a pan and sauté onion until golden brown.\n4. Add chicken and cook until browned.\n5. Layer rice and chicken in a pot, and cook on low heat for 20-25 minutes.\n6. Serve hot",
     "rating": 4.8,
@@ -34,6 +38,7 @@
   {
     "id": 5,
     "recipe_name": "Aloo Gobi",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/roasted-aloo-gobi-b125826.jpg",
     "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "spices"],
     "cooking_method": "1. Heat oil in a pan and sauté onion until soft.\n2. Add spices and tomato. Cook for 2-3 minutes.\n3. Add potatoes and cauliflower. Cook for 15-20 minutes.\n4. Serve hot",
     "rating": 4.2,
@@ -43,6 +48,7 @@
   {
     "id": 6,
     "recipe_name": "Dal Makhani",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/dal-makhani-recipe.jpg",
     "ingredients": [
       "black lentils",
       "red kidney beans",
@@ -57,6 +63,7 @@
   {
     "id": 7,
     "recipe_name": "Pani Puri",
+    "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2019/1/07/0/FNK_Pani-Puri_s4x3.jpg",
     "ingredients": ["semolina", "potatoes", "chickpeas", "tamarind", "spices"],
     "cooking_method": "1. Mix semolina with water to form a dough. Rest for 10 minutes.\n2. Roll out small balls from the dough and fry them in oil until crispy.\n3. Mash boiled potatoes and chickpeas. Add spices and tamarind paste to make a filling.\n4. Make a small hole in each crispy ball and fill with the potato-chickpea mixture.\n5. Serve with spiced water",
     "rating": 4.8,
@@ -65,6 +72,7 @@
   {
     "id": 8,
     "recipe_name": "Fish Curry",
+    "image": "https://vismaifood.com/storage/app/uploads/public/daa/96d/7bc/thumb__700_0_0_0_auto.jpg",
     "ingredients": ["fish", "coconut milk", "tomato", "spices", "curry leaves"],
     "cooking_method": "1. Heat oil in a pan and sauté tomato until soft.\n2. Add spices and curry leaves. Cook for 2-3 minutes.\n3. Add coconut milk and bring to a boil.\n4. Add fish and cook for 10-12 minutes until the fish is cooked through.\n5. Serve with rice",
     "rating": 4.2,
@@ -73,6 +81,7 @@
   {
     "id": 9,
     "recipe_name": "Samosa",
+    "image": "https://www.bakespace.com/images/large/9611f2390fdf39899e0d1963b447bdb5.jpeg",
     "ingredients": ["potatoes", "peas", "spices", "flour", "oil"],
     "cooking_method": "1. Boil potatoes and peas until tender.\n2. Mash the potatoes and peas. Add spices and mix well.\n3. Roll out the flour into thin circles.\n4. Cut each circle into two halves.\n5. Fold each half to make a cone.\n6. Fill the cone with the potato-pea mixture.\n7. Close the cone and seal the edges.\n8. Deep fry the samosas in oil until golden brown.\n9. Serve hot",
     "rating": 4.6,
@@ -81,6 +90,7 @@
   {
     "id": 10,
     "recipe_name": "Paneer Tikka",
+    "image": "https://www.sanjanafeasts.co.uk/wp-content/uploads/2020/02/Restaurant-Style-Paneer-Tikka-recipe.jpg",
     "ingredients": ["paneer", "yogurt", "spices", "bell pepper", "onion"],
     "cooking_method": "1. Marinate paneer in yogurt and spices for 1 hour.\n2. Cut bell pepper and onion into cubes.\n3. Thread the paneer, bell pepper, and onion onto skewers.\n4. Grill the skewers until the paneer is slightly browned.\n5. Serve hot",
     "rating": 4.2,
@@ -89,6 +99,7 @@
   {
     "id": 11,
     "recipe_name": "Butter Chicken",
+    "image": "https://assets.epicurious.com/photos/59d3b24f94c5526f0b92b04f/16:9/w_2000,h_1125,c_limit/indian-butter-chicken-curry-recipe-100317.jpg",
     "ingredients": ["chicken", "butter", "cream", "tomato", "spices"],
     "cooking_method": "1. Marinate chicken in yogurt and spices for 1 hour.\n2. Grill the chicken until slightly browned.\n3. Melt butter in a pan and sauté tomato until soft.\n4. Add spices and cook for 2-3 minutes.\n5. Add cream and chicken. Cook for 10-15 minutes.\n6. Serve hot",
     "rating": 4.7,
@@ -97,6 +108,7 @@
   {
     "id": 12,
     "recipe_name": "Chole Bhature",
+    "image": "https://en-media.thebetterindia.com/uploads/2022/08/294156779_1082267416022212_8006411537588067133_n-1_11zon-1660981126.jpg",
     "ingredients": ["chickpeas", "spices", "flour", "baking powder", "oil"],
     "cooking_method": "1. Soak chickpeas overnight and boil until tender.\n2. Heat oil in a pan and sauté spices until fragrant.\n3. Add boiled chickpeas and cook for 5-7 minutes.\n4. Mix flour, baking powder, and water to form a dough.\n5. Roll out the dough into circles and deep fry in oil until puffy.\n6. Serve hot with the chickpea curry",
     "rating": 4.4,
@@ -105,6 +117,7 @@
   {
     "id": 13,
     "recipe_name": "Aloo Gobi",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/aloo-gobi-recipe-500x375.jpg",
     "ingredients": ["potatoes", "cauliflower", "spices", "tomato", "oil"],
     "cooking_method": "1. Cut potatoes and cauliflower into small pieces.\n2. Heat oil in a pan and sauté spices until fragrant.\n3. Add chopped tomato and cook for 2-3 minutes.\n4. Add potatoes and cauliflower. Cook for 10-12 minutes until tender.\n5. Serve hot",
     "rating": 4.3,
@@ -113,6 +126,7 @@
   {
     "id": 14,
     "recipe_name": "Rajma Chawal",
+    "image": "https://www.secondrecipe.com/wp-content/uploads/2017/08/rajma-chawal-1.jpg",
     "ingredients": ["red kidney beans", "spices", "tomato", "rice", "oil"],
     "cooking_method": "1. Soak red kidney beans overnight and boil until tender.\n2. Heat oil in a pan and sauté spices until fragrant.\n3. Add chopped tomato and cook for 2-3 minutes.\n4. Add boiled kidney beans and cook for 10-12 minutes.\n5. Serve hot with rice",
     "rating": 4.6,
@@ -121,6 +135,7 @@
   {
     "id": 15,
     "recipe_name": "Malai Kofta",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/malai-kofta-recipe.jpg",
     "ingredients": ["potatoes", "paneer", "cream", "spices", "tomato"],
     "cooking_method": "1. Boil potatoes and mash them. Add crumbled paneer and spices. Mix well.\n2. Shape the mixture into small balls.\n3. Fry the balls in oil until golden brown.\n4. Heat oil in a pan and sauté tomato until soft.\n5. Add cream and spices. Cook for 5-7 minutes.\n6. Add the fried balls to the tomato-cream gravy. Cook for 2-3 minutes.\n7. Serve hot",
     "rating": 4.8,
@@ -129,6 +144,7 @@
   {
     "id": 16,
     "recipe_name": "Baingan Bharta",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/09/baingan-bharta-recipe.jpg",
     "ingredients": ["eggplant", "tomato", "onion", "spices", "oil"],
     "cooking_method": "1. Roast the eggplant over an open flame until charred on the outside.\n2. Peel and chop the eggplant.\n3. Heat oil in a pan and sauté onion until golden brown.\n4. Add chopped tomato and cook for 2-3 minutes.\n5. Add the chopped eggplant and spices. Cook for 5-7 minutes.\n6. Serve hot",
     "rating": 4.2,
@@ -137,6 +153,7 @@
   {
     "id": 17,
     "recipe_name": "Dum Aloo",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/dum-aloo-recipe.jpg",
     "ingredients": ["potatoes", "spices", "yogurt", "tomato", "oil"],
     "cooking_method": "1. Boil potatoes and cut them into halves.\n2. Heat oil in a pan and fry the potatoes until slightly browned.\n3. Sauté spices until fragrant.\n4. Add chopped tomato and cook for 2-3 minutes.\n5. Add yogurt and cook for 2-3 minutes.\n6. Add the fried potatoes and cook on low heat for 10-15 minutes.\n7. Serve hot",
     "rating": 4.5,
@@ -145,6 +162,7 @@
   {
     "id": 18,
     "recipe_name": "Mutton Biryani",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/02/mutton-biryani-recipe-500x375.jpg",
     "ingredients": ["mutton", "rice", "spices", "yogurt", "onion"],
     "cooking_method": "1. Marinate mutton in yogurt and spices for 2-3 hours.\n2. Boil rice until partially cooked.\n3. Heat oil in a pan and sauté onion until golden brown.\n4. Add marinated mutton and cook for 10-15 minutes.\n5. Layer the partially cooked rice over the mutton.\n6. Cover and cook on low heat for 20-25 minutes.\n7. Serve hot",
     "rating": 4.9,
@@ -153,6 +171,7 @@
   {
     "id": 19,
     "recipe_name": "Pav Bhaji",
+    "image": "https://recipes.timesofindia.com/thumb/52416693.cms?width=1200&height=900",
     "ingredients": ["potatoes", "vegetables", "spices", "butter", "pav"],
     "cooking_method": "1. Boil potatoes and mash them.\n2. Cook vegetables like cauliflower, peas, and carrots and mash them.\n3. Heat butter in a pan and sauté spices until fragrant.\n4. Add the mashed potatoes and vegetables. Cook for 5-7 minutes.\n5. Serve hot with buttered and toasted pav (bread rolls)",
     "rating": 4.6,
@@ -161,6 +180,7 @@
   {
     "id": 20,
     "recipe_name": "Palak Paneer",
+    "image": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
     "ingredients": ["spinach", "paneer", "cream", "spices", "onion"],
     "cooking_method": "1. Blanch spinach and blend it into a smooth puree.\n2. Heat oil in a pan and sauté onion until golden brown.\n3. Add spices and cook for 2-3 minutes.\n4. Add spinach puree and cook for 5-7 minutes.\n5. Add cream and paneer cubes and cook for another 2-3 minutes.\n6. Serve hot with rice or naan bread.",
     "rating": 4.8,
@@ -169,6 +189,7 @@
   {
     "id": 21,
     "recipe_name": "Chicken Tikka Masala",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chicken-tikka-masala.jpg",
     "ingredients": ["chicken", "yogurt", "tomato", "spices", "cream"],
     "cooking_method": "1. Marinate chicken in yogurt and spices for 2-3 hours.\n2. Bake chicken in oven until cooked.\n3. Heat oil in a pan and sauté spices until fragrant.\n4. Add chopped tomato and cook for 2-3 minutes.\n5. Add cream and cooked chicken. Cook for 5-7 minutes.\n6. Serve hot with rice or naan bread.",
     "rating": 4.7,
@@ -177,6 +198,7 @@
   {
     "id": 22,
     "recipe_name": "Rajma Masala",
+    "image": "https://www.sharmispassions.com/wp-content/uploads/2013/04/RajmaMasala6-500x500.jpg",
     "ingredients": ["kidney beans", "spices", "onion", "tomato", "ginger"],
     "cooking_method": "1. Soak kidney beans overnight and boil until soft.\n2. Heat oil in a pan and sauté onion and ginger until golden brown.\n3. Add spices and cook for 2-3 minutes.\n4. Add chopped tomato and cook for 2-3 minutes.\n5. Add boiled kidney beans and cook for 10-15 minutes.\n6. Serve hot with rice or naan bread.",
     "rating": 4.3,
@@ -185,6 +207,7 @@
   {
     "id": 23,
     "recipe_name": "Kadai Paneer",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/kadai-paneer-recipe.jpg",
     "ingredients": ["paneer", "capsicum", "onion", "tomato", "spices"],
     "cooking_method": "1. Heat oil in a pan and sauté paneer until slightly browned. Set aside.\n2. In the same pan, sauté onion and capsicum until slightly softened.\n3. Add chopped tomato and cook for 2-3 minutes.\n4. Add spices and cook for 2-3 minutes.\n5. Add the sautéed paneer and cook for 5-7 minutes.\n6. Serve hot with rice or naan bread.",
     "rating": 4.6,
@@ -193,6 +216,7 @@
   {
     "id": 24,
     "recipe_name": "Samosas",
+    "image": "https://www.recipetineats.com/wp-content/uploads/2021/02/Samosas-on-plate-SQ.jpg",
     "ingredients": ["potatoes", "peas", "spices", "flour", "oil"],
     "cooking_method": "1. Boil potatoes and mash them.\n2. Cook peas and mash them.\n3. Heat oil in a pan and sauté spices until fragrant.\n4. Add mashed potatoes and peas. Cook for 2-3 minutes.\n5. Roll out flour dough and cut into small circles.\n6. Fill each circle with the potato-pea mixture and seal the edges.\n7. Deep-fry samosas until golden brown.\n8. Serve hot with chutney.",
     "rating": 4.4,
@@ -201,6 +225,7 @@
   {
     "id": 25,
     "recipe_name": "Palak Paneer",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/palak-paneer-recipe.jpg",
     "ingredients": ["spinach", "paneer", "tomato", "onion", "spices"],
     "cooking_method": "1. Boil spinach until wilted and blend to a smooth paste.\n2. Heat oil in a pan and sauté onion until golden brown.\n3. Add chopped tomato and cook for 2-3 minutes.\n4. Add spices and cook for 2-3 minutes.\n5. Add the spinach paste and cook for 5-7 minutes.\n6. Add cubed paneer and cook for 2-3 minutes.\n7. Serve hot with rice or naan bread.",
     "rating": 4.5,
@@ -209,6 +234,7 @@
   {
     "id": 26,
     "recipe_name": "Pav Bhaji",
+    "image": "https://pipingpotcurry.com/wp-content/uploads/2018/09/Pav-Bhaji.jpg",
     "ingredients": ["potatoes", "tomatoes", "peas", "butter", "spices"],
     "cooking_method": "1. Boil and mash potatoes.\n2. In a separate pan, sauté chopped onion and tomato until soft.\n3. Add spices and cook for 2-3 minutes.\n4. Add mashed potatoes, peas, and some water. Cook for 10-15 minutes.\n5. Mash the mixture until smooth.\n6. In another pan, melt butter and add more spices.\n7. Add the mashed mixture to the pan and cook for 5-7 minutes.\n8. Serve hot with buttered pav buns and chopped onion.",
     "rating": 4.2,
@@ -217,6 +243,7 @@
   {
     "id": 27,
     "recipe_name": "Aloo Gobi",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/roasted-aloo-gobi-b125826.jpg",
     "ingredients": ["potatoes", "cauliflower", "spices", "tomato", "onion"],
     "cooking_method": "1. Cut potatoes and cauliflower into bite-size pieces.\n2. Heat oil in a pan and sauté spices until fragrant.\n3. Add chopped onion and cook until golden brown.\n4. Add chopped tomato and cook for 2-3 minutes.\n5. Add the potato and cauliflower pieces and cook for 10-15 minutes.\n6. Serve hot with rice or naan bread.",
     "rating": 4.1,
@@ -225,6 +252,7 @@
   {
     "id": 28,
     "recipe_name": "Malai Kofta",
+    "image": "https://www.carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
     "ingredients": ["paneer", "potatoes", "cashews", "spices", "cream"],
     "cooking_method": "1. Boil and mash potatoes. Add grated paneer and spices. Mix well and form into small balls.\n2. Heat oil in a pan and fry the balls until golden brown. Set aside.\n3. Blend cashews and cream to a smooth paste.\n4. Heat oil in a pan and sauté spices until fragrant.\n5. Add the cashew paste and cook for 2-3 minutes.\n6. Add fried koftas and cook for 5-7 minutes.\n7. Serve hot with rice or naan bread.",
     "rating": 4.7,
@@ -233,6 +261,7 @@
   {
     "id": 29,
     "recipe_name": "Butter Chicken",
+     "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&webp=true&resize=440,400",
     "ingredients": ["chicken", "butter", "tomato", "cream", "spices"],
     "cooking_method": "1. Marinate chicken in yogurt, spices, and lemon juice for 1-2 hours.\n2. Grill or bake chicken until cooked through.\n3. In a separate pan, melt butter and add spices.\n4. Add chopped tomato and cook for 5-7 minutes.\n5. Add cream and cook for 2-3 minutes.\n6. Add grilled chicken and cook for 5-7 minutes.\n7. Serve hot with rice or naan bread.",
     "rating": 4.8,
@@ -241,6 +270,7 @@
   {
     "id": 30,
     "recipe_name": "Rajma Masala",
+    "image": "https://myfoodstory.com/wp-content/uploads/2021/06/Rajma-Masala-4.jpg",
     "ingredients": ["kidney beans", "onion", "tomato", "spices", "ginger"],
     "cooking_method": "1. Soak kidney beans overnight and cook until soft.\n2. In a separate pan, sauté chopped onion and ginger until golden brown.\n3. Add chopped tomato and cook for 2-3 minutes.\n4. Add spices and cook for 2-3 minutes.\n5. Add the cooked kidney beans and cook for 10-15 minutes.\n6. Serve hot with rice or naan bread.",
     "rating": 4.2,

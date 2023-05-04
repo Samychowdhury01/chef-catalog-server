@@ -1,0 +1,19 @@
+[
+    {
+      "question": "Tell us the differences between uncontrolled and controlled components.",
+      "answer": "In React, React's state is where their state values are stored and React's event handlers are where their state updates are handled, so controlled components are those whose state is handled by React. On the other hand, uncontrolled elements have state values that are controlled by the browser's DOM rather than maintained by React. Uncontrolled components do not offer the same amount of control as controlled components, although are often simpler and easier to manipulate."
+    },
+    {
+      "question": "How to validate React props using PropTypes?",
+      "answer": "React includes a built-in library called PropTypes. PropTypes gives us the ability to specify the kind of props that show up for the component. We can quickly import propTypes from the 'prop-types' package and then specify a propType object as a static property of our component to validate our props using propTypes. This propTypes object should contain keys for each prop and that the values of these keys correspond to the proper PropTypes validators."
+    },
+    {
+      "question": "Tell us the difference between nodejs and express js.",
+      "answer": "Express.js is framework of web application for node.js . on the other hand, node.js is a runtime environment for JavaScript code execution outside of a web browser.  Express.js gives us a collection of tools and guidence for developing web applications using node.js,  where Node.js offers a bunch of  the functionality needed to run JavaScript code on the server. Express.js, which is based on Node.js, offers tools such as routing, middleware, and templates to simplify the development of web applications."
+    },
+    {
+      "question": "What is a custom hook, and why will you create a custom hook?",
+      "answer": "A custom hook, whose name begins with the word 'use' is a unique JavaScript function that can be used to call other hooks. In a React application, it allows us to reuse stateful logic across several components. if we want to avoid repeating the same logic across multiple component,  or if we want to summarize complex logic into a reusable function we can simply create custom hooks.  Custom hooks can also help to simplify your component code by removing unnecessary complexity and improving readability."
+    }
+  ]
+  

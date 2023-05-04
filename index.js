@@ -4,6 +4,7 @@ const app = express()
 const port = 3000
 const chefData = require('./data/chefData.json')
 const recipes = require('./data/recipes.json')
+const blogs = require('./data/blogs.json')
 
 app.use(cors())
 
@@ -15,6 +16,16 @@ app.get('/', (req, res) => {
 app.get('/chefData', (req, res) => {
   res.send(chefData)
 })
+app.get('/chefData/:id', (req, res) => {
+  const id = parseInt(req.params.id);
+  const selectedChef = chefData.find((chef) => chef.id === id)
+  res.send(selectedChef)
+})
+app.get('/blogs', (req, res) => {
+
+  res.send(blogs)
+
+})
 
 app.get('/recipes', (req, res) => {
 
@@ -25,7 +36,6 @@ app.get('/recipes', (req, res) => {
 app.get('/recipes/:id', (req, res) => {
   const id = parseInt(req.params.id);
   const selectedRecipes = recipes.filter((recipe) => recipe.chef_id === id)
-  console.log(selectedRecipes)
   res.send(selectedRecipes)
 
 })
